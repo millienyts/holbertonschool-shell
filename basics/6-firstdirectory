@@ -1,0 +1,2 @@
+#!/bin/bash
+which bash my_first_directory /tmp/bin/bash
