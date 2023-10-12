@@ -1,2 +1,2 @@
 #!bin/bash/
-mkdir /boot/ ls -a 
+mkdir /boot/ ls -af
