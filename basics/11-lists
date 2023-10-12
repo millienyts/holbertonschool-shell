@@ -1,2 +1,2 @@
-#!bin/bash
-ls -la /boot/
+#!bin/bash/
+mkdir /boot/ ls -la 
