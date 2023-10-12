@@ -1,2 +1,2 @@
 #!bin/bash/
-/boot ls -af
+/boot ls -a ls -f
