@@ -1,2 +1,2 @@
-#!/bin/bash 
-/boot ls -af -la ..
+#!/bin/bash  
+ls -af -la
