@@ -1,2 +1,2 @@
 #!/bin/bash  
-ls -af ls -la ..
+ls -aflal
